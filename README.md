@@ -10,7 +10,8 @@ Run the index.html file on browser, make sure you are online, since the demo use
 
 ## Further reading
 
-To get more help on the Web Speech API, chek the documenttation on MDN.(https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API).
+To get more help on the Web Speech API, chek the documenttation on MDN.
+(https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API).
 
 ## MDN Github speech recognition 
 web-speech-api : (https://github.com/mdn/web-speech-api/)
